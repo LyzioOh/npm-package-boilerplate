@@ -1,3 +1,8 @@
+# Npm Package Boilerplate
+
+## Use
+
+
 ## Install
 
 ```
